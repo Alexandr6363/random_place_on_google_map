@@ -1,2 +1,11 @@
 /venv/
 *.sqlite3
+*.pyc
+map/map/__pycache__/__init__.cpython-310.pyc
+map/map/__pycache__/settings.cpython-310.pyc
+map/map/__pycache__/urls.cpython-310.pyc
+map/map/__pycache__/wsgi.cpython-310.pyc
+map/random_place/__pycache__/__init__.cpython-310.pyc
+map/random_place/__pycache__/urls.cpython-310.pyc
+map/random_place/__pycache__/utils.cpython-310.pyc
+map/random_place/__pycache__/views.cpython-310.pyc
